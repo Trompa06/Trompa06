@@ -78,8 +78,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Trompa06&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Trompa06&layout=compact&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Trompa06&show_icons=true&theme=radical&cache_seconds=1800)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Trompa06&layout=compact&theme=radical&cache_seconds=1800)
 
 </div>
 
