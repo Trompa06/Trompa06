@@ -81,11 +81,6 @@
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Trompa06&show_icons=true&theme=radical&cache_seconds=1800)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Trompa06&layout=compact&theme=radical&cache_seconds=1800)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-
 </div>
 
 ---
